@@ -1,0 +1,12 @@
+Questions for data analysis
+
+Company Summary:
+
+
+How does the number of employees of a company affect the annual payroll? Top 10 companies.
+
+
+Sales Based on Demographics. (Company Summary)
+
+
+Number of employer firms compared to company size, possibly location as well.
