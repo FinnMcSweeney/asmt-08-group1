@@ -25,7 +25,7 @@ The Datasets utilized were:
 
 File Structure: 
 - ETLreport.ipynb: Jupyter notebook containing the methodology for accessing the data through API calls, cleaning and transforming the data as well as the visualizations addressing the analysis questions. 
-- projectreport.doc: Summary report based on our analysis and findings.  
+- projectreport.docx: Summary report based on our analysis and findings.  
 
 <!-- Think of your README.md as your landing page for your project. Before a viewer dives into your files, what do you want them to know about your project? Here are some recommendations for your project README.mds:
 Give a brief overview of what is in each folder in your repo, so a viewer knows how to navigate around.
