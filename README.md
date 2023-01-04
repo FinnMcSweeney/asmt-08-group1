@@ -9,7 +9,7 @@ Our task for this project was to review 2019 US Census data, access it through t
 
 Analysis Questions: Our analysis of the data revolved around exploring the following questions:
 - What is the average salary of employees by state?
-- What percentage of workers are male and what percentage are female? How does that compare to - the number of male versus female owners?
+- What percentage of workers are male and what percentage are female? How does that compare to the number of male versus female owners?
 - What technologies are mostly used by employer firms?
 - What is the salary range for jobs that require varying levels of use of software-based technology?
 - In which industries are individuals who work with Artificial Intelligence likely to earn the highest salaries?
@@ -18,14 +18,13 @@ Analysis Questions: Our analysis of the data revolved around exploring the follo
 Data: The data utilized for this analysis was taken from the 2019 Annual Business Survey API 
 (https://www.census.gov/data/developers/data-sets/abs.2019.html)
 The Datasets utilized were: 
-- Company Summary: “provides data for employer businesses by sector, sex, ethnicity, race, veteran status, years in business, receipts size of firms, and employment size of firms for the U.S., states, and metro areas. "
-- Characteristics of Businesses: “provides data for respondent employer firms by sector, sex, ethnicity, race, veteran status, years in business, receipts size of firm, and employment size of firm for the U.S., states, and metro areas, including detailed business characteristics."
-- Characteristics of Business Owners: “provides data for owners of respondent employer firms by sector, sex, ethnicity, race, and veteran status for the U.S., states, and metro areas, including detailed owner characteristics."
+- Company Summary: “Provides data for employer businesses by sector, sex, ethnicity, race, veteran status, years in business, receipts size of firms, and employment size of firms for the U.S., states, and metro areas" (US Census Bureau).
+- Characteristics of Businesses: “Provides data for respondent employer firms by sector, sex, ethnicity, race, veteran status, years in business, receipts size of firm, and employment size of firm for the U.S., states, and metro areas, including detailed business characteristics" (US Census Bureau).
+- Characteristics of Business Owners: “Provides data for owners of respondent employer firms by sector, sex, ethnicity, race, and veteran status for the U.S., states, and metro areas, including detailed owner characteristics" (US Census Bureau).
 - Technology Characteristics of Businesses: provides data on technology use and production for Artificial Intelligence, Cloud-Based Computing, Specialized Software, Robotics, and Specialized Equipment technologies data at the U.S. and State level for the reference year 2018.
 
 File Structure: 
 - asmt-08.ipynb: Jupyter notebook containing the methodology for accessing the data through API calls, cleaning and transforming the data as well as the visualizations addressing the analysis questions. 
-- initialquestions.txt: initial questions based on exploratory analysis of the datasets.
 - projectreport.doc: Summary report based on our analysis and findings.  
 
 <!-- Think of your README.md as your landing page for your project. Before a viewer dives into your files, what do you want them to know about your project? Here are some recommendations for your project README.mds:
